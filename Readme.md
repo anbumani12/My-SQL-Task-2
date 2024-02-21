@@ -1,1 +1,1 @@
-Please refer MY SQL EER Diagram TASK and Design DB model for Guvi Zen…
+Please refer to my SQL EER Diagram Task and Design DB Model for Guvi Zen. and I also uploaded the task as a Word document.
